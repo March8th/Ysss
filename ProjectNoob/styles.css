@@ -1,0 +1,41 @@
+.playwrite-es{
+    font-family: "Playwrite ES", cursive;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+  }
+  html{
+    background-color: #7091E6;
+  }
+  div.reasons{
+    background-color: #ADBBDA;
+    width:fit-content;
+  }
+  .playwrite-nz {
+    font-family: "Playwrite NZ", cursive;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+  }
+  figcaption{
+    font-weight: bold;
+  }
+  div.Image1{
+    height:fit-content;
+    width: fit-content;
+    border: 10px solid #3D52A0;
+  }
+  div.Image2{
+    height:fit-content;
+    width: fit-content;
+    border: 10px solid #3D52A0;
+  }
+  div.Image3{
+    height:fit-content;
+    width: fit-content;
+    border: 10px solid #3D52A0;
+  }
+  #edit{
+    background-color:#ADBBDA;
+  }
+  
